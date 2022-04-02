@@ -1,5 +1,5 @@
 # lnkMenu
- * lnkMenuはWindow10のタスクバーにあったショートカットメニューの機能です。 （Windows11用） 
+ * lnkMenuはWindow10のタスクバーにあったリンクメニューの機能です。 （Windows11用） 
  * SWD4CSを使って作成 
  * 動作速度はイマイチ  
   
