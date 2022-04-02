@@ -16,3 +16,5 @@
 * lnkMenu.ini内に上記フォルダーパスを記入  
 * Windows11のタスクバーにlnkMenu.exeをピン留め  
   
+## 動画  
+https://youtu.be/h9oFiD-xuL4
